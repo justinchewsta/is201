@@ -1,0 +1,86 @@
+.navbar-brand {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-link {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+}
+
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 150%;
+}
+
+span {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    font-size: 120%;
+}
+
+.post-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 150%;
+}
+
+.post-subtitle {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    font-size: 90%;
+}
+
+.small {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    font-size: 0.875em;
+    color: #6c757d;
+    text-align: center;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 0px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.anchor {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    font-size: 0.875em;
+    color: #6c757d;
+    position: relative;
+    left: 46%;
+    margin-left: -width/2;
+}
+
+ol.center-list{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 150%;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-position: inside;
+  }
+
+  
+ul {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    font-size: 65%;
+    color: #6c757d;
+    text-align: left;
+}
+
+.video {
+    margin: 1pc 1px 20px 330px;
+}
